@@ -1,0 +1,6 @@
+REQUIREMENTS TO BE INSTALLED
+1)PYPDF2
+2)pyttsx3
+3)speechrecognition
+4)pyautogui
+5)datetime
