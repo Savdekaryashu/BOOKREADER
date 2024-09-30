@@ -68,7 +68,7 @@ def pdf_reader():
     page = pdfReader.pages[pg - 1]
     text = page.extract_text()
     speak(text)
-
+print("Hello")
 if __name__ == "__main__":
     wish()
     speak("which book do you want to read sir ")
